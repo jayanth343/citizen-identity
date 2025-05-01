@@ -1,0 +1,148 @@
+[
+  {
+    "id": "citizen-001",
+    "name": "Jayanth",
+    "email": "jayanth@hmail.com",
+    "organization": "Org1",
+    "attributes": [
+      {
+        "name": "Aadhar",
+        "value": "987665445632",
+        "isSensitive": true
+      },
+      {
+        "name": "dob",
+        "value": "2/2/2004",
+        "isSensitive": true
+      },
+      {
+        "name": "License",
+        "value": "KA0412312",
+        "isSensitive": true
+      }
+    ],
+    "verificationRequests": [
+      {
+        "id": "req-1745520479335-1ticrw7",
+        "requesterOrg": "Org2",
+        "clientId": "citizen-001",
+        "requestedAttributes": [
+          "Aadhar"
+        ],
+        "status": "verified",
+        "timestamp": "2025-04-24T18:47:59.335Z"
+      },
+      {
+        "id": "req-1745524980012-eru4qga",
+        "requesterOrg": "Org2",
+        "clientId": "citizen-001",
+        "requestedAttributes": [
+          "Aadhar"
+        ],
+        "status": "verified",
+        "timestamp": "2025-04-24T20:03:00.012Z"
+      },
+      {
+        "id": "req-1745552351641-i3w5sp3",
+        "requesterOrg": "Org2",
+        "clientId": "citizen-001",
+        "requestedAttributes": [
+          "Aadhar"
+        ],
+        "status": "verified",
+        "timestamp": "2025-04-25T03:39:11.641Z"
+      },
+      {
+        "id": "req-1745823582067-vzc844b",
+        "requesterOrg": "Org2",
+        "clientId": "citizen-001",
+        "requestedAttributes": [
+          "License"
+        ],
+        "status": "verified",
+        "timestamp": "2025-04-28T06:59:42.067Z"
+      }
+    ]
+  },
+  {
+    "id": "client123",
+    "name": "John Smith",
+    "email": "john@example.com",
+    "organization": "Org1",
+    "attributes": [
+      {
+        "name": "dateOfBirth",
+        "value": "1990-05-15",
+        "isSensitive": false
+      },
+      {
+        "name": "address",
+        "value": "123 Main St, Anytown, USA",
+        "isSensitive": false
+      }
+    ],
+    "verificationRequests": [
+      {
+        "id": "req-1745517074407-ox3ro9e",
+        "requesterOrg": "Org2",
+        "clientId": "client123",
+        "requestedAttributes": [
+          "dateOfBirth",
+          "address"
+        ],
+        "status": "pending",
+        "timestamp": "2025-04-24T17:51:14.407Z"
+      },
+      {
+        "id": "req-1745820242874-m5o807z",
+        "requesterOrg": "Org2",
+        "clientId": "client123",
+        "requestedAttributes": [
+          "dateOfBirth"
+        ],
+        "status": "rejected",
+        "timestamp": "2025-04-28T06:04:02.874Z"
+      }
+    ]
+  },
+  {
+    "id": "client-002",
+    "name": "Kabir",
+    "email": "kabir@gmail.com",
+    "organization": "Org2",
+    "attributes": [
+      {
+        "name": "dateofBirth",
+        "value": "02-02-2004",
+        "isSensitive": true
+      },
+      {
+        "name": "Age",
+        "value": "21",
+        "isSensitive": true
+      }
+    ],
+    "verificationRequests": [
+      {
+        "id": "req-1745819682208-r3fzz1x",
+        "requesterOrg": "Org2",
+        "clientId": "client-002",
+        "requestedAttributes": [
+          "dateofBirth"
+        ],
+        "status": "rejected",
+        "timestamp": "2025-04-28T05:54:42.208Z"
+      },
+      {
+        "id": "req-1745821170079-b5s76z9",
+        "requesterOrg": "Org2",
+        "clientId": "client-002",
+        "requestedAttributes": [
+          "Age"
+        ],
+        "status": "verified",
+        "timestamp": "2025-04-28T06:19:30.079Z"
+      }
+    ]
+  }
+]

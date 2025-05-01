@@ -1,0 +1,10 @@
+[
+  {
+    "id": "private-citizen-002-bankverifier",
+    "clientId": "citizen-002",
+    "issuerId": "I1",
+    "verifierId": "bankVerifier",
+    "status": "active",
+    "createdAt": "2025-04-25T03:50:33.000Z"
+  }
+]

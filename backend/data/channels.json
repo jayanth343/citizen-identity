@@ -1,0 +1,66 @@
+[
+  {
+    "id": "channel-1745552385022",
+    "clientId": "citizen-001",
+    "issuerId": "I1",
+    "verifierId": "bankVerifier",
+    "status": "active",
+    "createdAt": "2025-04-25T03:39:45.022Z"
+  },
+  {
+    "id": "channel-1745819838039",
+    "clientId": "client-002",
+    "issuerId": "I1",
+    "verifierId": "bankVerifier",
+    "status": "active",
+    "createdAt": "2025-04-28T05:57:18.039Z"
+  },
+  {
+    "id": "channel-1745820284901",
+    "clientId": "client123",
+    "issuerId": "I1",
+    "verifierId": "bankVerifier",
+    "status": "active",
+    "createdAt": "2025-04-28T06:04:44.901Z"
+  },
+  {
+    "id": "channel-1745820290346",
+    "clientId": "client123",
+    "issuerId": "I1",
+    "verifierId": "bankVerifier",
+    "status": "active",
+    "createdAt": "2025-04-28T06:04:50.346Z"
+  },
+  {
+    "id": "channel-1745820291027",
+    "clientId": "client123",
+    "issuerId": "I1",
+    "verifierId": "bankVerifier",
+    "status": "active",
+    "createdAt": "2025-04-28T06:04:51.027Z"
+  },
+  {
+    "id": "channel-1745820291546",
+    "clientId": "client123",
+    "issuerId": "I1",
+    "verifierId": "bankVerifier",
+    "status": "active",
+    "createdAt": "2025-04-28T06:04:51.546Z"
+  },
+  {
+    "id": "channel-1745822331030",
+    "clientId": "client-002",
+    "issuerId": "I1",
+    "verifierId": "bankVerifier",
+    "status": "active",
+    "createdAt": "2025-04-28T06:38:51.030Z"
+  },
+  {
+    "id": "channel-1745823717027",
+    "clientId": "citizen-001",
+    "issuerId": "I1",
+    "verifierId": "bankVerifier",
+    "status": "active",
+    "createdAt": "2025-04-28T07:01:57.027Z"
+  }
+]

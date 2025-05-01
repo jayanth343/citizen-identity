@@ -1,0 +1,17 @@
+{
+    "name": "citizen-identity",
+    "version": "1.0.0",
+    "description": "Citizen Identity Management Chaincode",
+    "main": "index.js",
+    "engines": {
+        "node": ">=12",
+        "npm": ">=5"
+    },
+    "scripts": {
+        "start": "fabric-chaincode-node start"
+    },
+    "dependencies": {
+        "fabric-contract-api": "^2.2.0",
+        "fabric-shim": "^2.2.0"
+    }
+} 

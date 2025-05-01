@@ -1,0 +1,74 @@
+[
+  {
+    "id": "msg-1745552385022-x9qg7ae",
+    "channelId": "channel-1745552385022",
+    "from": "system",
+    "content": "Secure channel established between Jayanth, issuer, and Bank KYC Team",
+    "type": "update",
+    "timestamp": "2025-04-25T03:39:45.022Z"
+  },
+  {
+    "id": "msg-1745555754685-f9c992j",
+    "channelId": "channel-1745552385022",
+    "from": "bankVerifier",
+    "content": "requesting dateofBirth",
+    "type": "verification",
+    "timestamp": "2025-04-25T04:35:54.685Z"
+  },
+  {
+    "id": "msg-1745819838039-d1qpopi",
+    "channelId": "channel-1745819838039",
+    "from": "system",
+    "content": "Secure channel established between Kabir, issuer, and Bank KYC Team",
+    "type": "update",
+    "timestamp": "2025-04-28T05:57:18.039Z"
+  },
+  {
+    "id": "msg-1745820284901-s4cqni6",
+    "channelId": "channel-1745820284901",
+    "from": "system",
+    "content": "Secure channel established between John Smith, issuer, and Bank KYC Team",
+    "type": "update",
+    "timestamp": "2025-04-28T06:04:44.901Z"
+  },
+  {
+    "id": "msg-1745820290346-mxfdy1f",
+    "channelId": "channel-1745820290346",
+    "from": "system",
+    "content": "Secure channel established between John Smith, issuer, and Bank KYC Team",
+    "type": "update",
+    "timestamp": "2025-04-28T06:04:50.346Z"
+  },
+  {
+    "id": "msg-1745820291027-9fpost1",
+    "channelId": "channel-1745820291027",
+    "from": "system",
+    "content": "Secure channel established between John Smith, issuer, and Bank KYC Team",
+    "type": "update",
+    "timestamp": "2025-04-28T06:04:51.027Z"
+  },
+  {
+    "id": "msg-1745820291546-xck63px",
+    "channelId": "channel-1745820291546",
+    "from": "system",
+    "content": "Secure channel established between John Smith, issuer, and Bank KYC Team",
+    "type": "update",
+    "timestamp": "2025-04-28T06:04:51.546Z"
+  },
+  {
+    "id": "msg-1745822331030-6cljhrf",
+    "channelId": "channel-1745822331030",
+    "from": "system",
+    "content": "Secure channel established between Kabir, issuer, and Bank KYC Team",
+    "type": "update",
+    "timestamp": "2025-04-28T06:38:51.030Z"
+  },
+  {
+    "id": "msg-1745823717027-51w78gx",
+    "channelId": "channel-1745823717027",
+    "from": "system",
+    "content": "Secure channel established between Jayanth, issuer, and Bank KYC Team",
+    "type": "update",
+    "timestamp": "2025-04-28T07:01:57.027Z"
+  }
+]

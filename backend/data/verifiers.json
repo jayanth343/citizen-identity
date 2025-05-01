@@ -1,0 +1,92 @@
+[
+  {
+    "id": "bankVerifier",
+    "name": "Bank KYC Team",
+    "organization": "Org2",
+    "verificationRequests": [
+      {
+        "id": "req-1745517074407-ox3ro9e",
+        "requesterOrg": "Org2",
+        "clientId": "client123",
+        "requestedAttributes": [
+          "dateOfBirth",
+          "address"
+        ],
+        "status": "pending",
+        "timestamp": "2025-04-24T17:51:14.407Z"
+      },
+      {
+        "id": "req-1745520479335-1ticrw7",
+        "requesterOrg": "Org2",
+        "clientId": "citizen-001",
+        "requestedAttributes": [
+          "Aadhar"
+        ],
+        "status": "verified",
+        "timestamp": "2025-04-24T18:47:59.335Z"
+      },
+      {
+        "id": "req-1745524980012-eru4qga",
+        "requesterOrg": "Org2",
+        "clientId": "citizen-001",
+        "requestedAttributes": [
+          "Aadhar"
+        ],
+        "status": "verified",
+        "timestamp": "2025-04-24T20:03:00.012Z"
+      },
+      {
+        "id": "req-1745552351641-i3w5sp3",
+        "requesterOrg": "Org2",
+        "clientId": "citizen-001",
+        "requestedAttributes": [
+          "Aadhar"
+        ],
+        "status": "verified",
+        "timestamp": "2025-04-25T03:39:11.641Z"
+      },
+      {
+        "id": "req-1745819682208-r3fzz1x",
+        "requesterOrg": "Org2",
+        "clientId": "client-002",
+        "requestedAttributes": [
+          "dateofBirth"
+        ],
+        "status": "rejected",
+        "timestamp": "2025-04-28T05:54:42.208Z"
+      },
+      {
+        "id": "req-1745820242874-m5o807z",
+        "requesterOrg": "Org2",
+        "clientId": "client123",
+        "requestedAttributes": [
+          "dateOfBirth"
+        ],
+        "status": "rejected",
+        "timestamp": "2025-04-28T06:04:02.874Z"
+      },
+      {
+        "id": "req-1745821170079-b5s76z9",
+        "requesterOrg": "Org2",
+        "clientId": "client-002",
+        "requestedAttributes": [
+          "Age"
+        ],
+        "status": "verified",
+        "timestamp": "2025-04-28T06:19:30.079Z"
+      },
+      {
+        "id": "req-1745823582067-vzc844b",
+        "requesterOrg": "Org2",
+        "clientId": "citizen-001",
+        "requestedAttributes": [
+          "License"
+        ],
+        "status": "verified",
+        "timestamp": "2025-04-28T06:59:42.067Z"
+      }
+    ],
+    "createdAt": "2025-04-24T17:51:10.390Z",
+    "updatedAt": "2025-04-24T17:51:10.390Z"
+  }
+]
